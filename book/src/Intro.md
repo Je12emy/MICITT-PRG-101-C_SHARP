@@ -2,12 +2,12 @@
 
 # ¿Por que programar?
 
-* El area de la ingenieria de software cuenta con una barrera de entrada, relativamente baja, solo necesitamos de una computadora y una conexión relativamente a internet. Esto nos permite estudiar y ejercerla en donde queramos y cuando queramos.
+* El area de la ingenieria de software cuenta con una barrera de entrada relativamente baja, solo necesitamos de una computadora y una conexión relativamente estable a internet. Esto nos permite estudiar en donde queramos y cuando queramos.
 * En esta década hemos visto aplicaciones y negocios que han cambiado drasticamente nuestra forma de vivir. 
 	* Uber ha cambiado como nos transportamos.
 	* Airbnb ha cambiado como vacacionamos.
-	* ChatGPT ha cambiado la forma en la cual navegamos por información en el internet, talvez en el mundo.
-* El entorno laboral del mundo cada vez mas gira entorno de la tecnologia, talvez cada uno se dio cuenta de esto durante la pandemia. La realidad, es que el mundo digital se ha transformado en uno de los combustibles del mundo.
+	* ChatGPT ha cambiado la forma en la cual buscamos información en el internet, tal vez en el mundo entero.
+* El entorno laboral del mundo cada vez mas gira entorno de la tecnologia, talvez cada uno se dio cuenta de esto durante la pandemia. La realidad es que el mundo digital se ha transformado en uno el combustible del crecimiento de todo negocio.
 
 > Se estima que para el 2025 habrá 149 millones de nuevos empleos digitales, en áreas como privacidad, ciberseguridad, análisis de datos, machine learning e IA, cloud y desarrollo de software. El 50% de todos los profesionales necesitará “reskilling” para 2025,
 
@@ -16,7 +16,7 @@ Fuente: https://www.larepublica.net/noticia/gigantes-tec-como-meta-google-y-tesl
 # ¿Que aprenderemos?
 
 * Aprenderemos los fundamentos de la programación, mejor dicho, aprenderemos a pensar como un programador.
-* Una vez ajustemos nuestro cerebro, aprenderemos el paradigma de programación más adoptado en el mundo, la programación orientada a objetos (POO).
+* Una vez ajustemos nuestro cerebro, aprenderemos el paradigma de programación de la programación orientada a objetos (POO).
 * Una vez contemos con una fuerte base, empezaremos a crear nuestras propias aplicaciones.
 	* Aplicaciones por consola.
 	* Aplicaciones de escritorio.
@@ -45,7 +45,7 @@ C# (pronunciado *cii sharp*) es un language de programación desarrollado por Mi
 - Desarrollo de video juegos (Unity).
 - Desarrollo de aplicaciones de escritorio, web y de  teléfono.
 - etc...
-Esta amplia adopción laboral han convertido el lenguaje un atractivo motor para el mundo corporativo, en los estados unidos el salario promedio de un ingeniero en C# ronda los  [$95.000 USD a $156.000 USD](https://www.glassdoor.com/Salaries/dotnet-engineer-salary-SRCH_KO0,15.htm).
+Esta amplia adopción laboral han convertido a este lenguaje en un atractivo motor para el mundo corporativo, en los estados unidos el salario promedio de un ingeniero en C# ronda los  [$95.000 USD a $156.000 USD](https://www.glassdoor.com/Salaries/dotnet-engineer-salary-SRCH_KO0,15.htm).
 
 # Contenido de la clase
 
