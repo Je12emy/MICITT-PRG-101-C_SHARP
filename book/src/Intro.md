@@ -7,7 +7,7 @@
 	* Uber ha cambiado como nos transportamos.
 	* Airbnb ha cambiado como vacacionamos.
 	* ChatGPT ha cambiado la forma en la cual buscamos información en el internet, tal vez en el mundo entero.
-* El entorno laboral del mundo cada vez mas gira entorno de la tecnologia, talvez cada uno se dio cuenta de esto durante la pandemia. La realidad es que el mundo digital se ha transformado en uno el combustible del crecimiento de todo negocio.
+* El entorno laboral del mundo cada vez mas gira entorno de la tecnologia. La realidad es que el mundo digital se ha transformado en uno el combustible del crecimiento de todo negocio.
 
 > Se estima que para el 2025 habrá 149 millones de nuevos empleos digitales, en áreas como privacidad, ciberseguridad, análisis de datos, machine learning e IA, cloud y desarrollo de software. El 50% de todos los profesionales necesitará “reskilling” para 2025,
 
