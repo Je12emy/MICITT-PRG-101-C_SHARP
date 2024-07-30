@@ -1,5 +1,5 @@
 # Indice de Contenido
 
-[Introducción](./README.md)
+[Introducción a la Programación con C#](./README.md)
 
-- [Introducción al Curso](./Intro.md)
+- [Introducción al curso](./Intro.md)
