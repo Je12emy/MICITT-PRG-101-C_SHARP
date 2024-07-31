@@ -17,8 +17,8 @@ Principios básicos de la programación:
 La Programación Orientada a Objetos (POO).
 
 - Clases.
-- Métodos.
-- Objetos
+    - Métodos.
+    - Propiedades
 - Principios de POO.
   - Encapsulación.
   - Herencia.
